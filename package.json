@@ -1,0 +1,16 @@
+{
+  "name": "cv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "vuepress": "^1.8.2"
+  }
+}
